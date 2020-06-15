@@ -1,2 +1,2 @@
-# carwashservice
+# car.wash.service
 GitHub Pages
